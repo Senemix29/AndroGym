@@ -20,13 +20,15 @@ public class AndroGym extends Activity {
 	}
 
 	
-	public void chamaMenuPrincipal(){ 
+	public void chamaMenuPrincipal(){
+ 
 		setContentView(R.layout.main);
 		inicializaObj();
 		mainListerners();
 		
 	}
 	public void chamaSerie(){
+
 		setContentView(R.layout.tiposerie);
 		inicializaObj();
 		serieListeners();
