@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+
+    <AbsoluteLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <Button
+            android:id="@+id/btSerie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_x="0dp"
+            android:layout_y="124dp"
+            android:text="Séries" />
+
+        <Button
+            android:id="@+id/BtDica"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_x="2dp"
+            android:layout_y="174dp"
+            android:text="Dicas de Nutrição" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="51dp"
+            android:layout_x="58dp"
+            android:layout_y="48dp"
+            android:text="No Pain, No Gain !"
+            android:textSize="25sp" />
+
+        <Gallery
+            android:id="@+id/gallery1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="69dp"
+            android:layout_y="256dp" />
+
+    </AbsoluteLayout>
+
+</LinearLayout>
