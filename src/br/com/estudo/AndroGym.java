@@ -85,6 +85,7 @@ public class AndroGym extends Activity {
 			
 			@Override
 			public void onClick(View v) {
+
 				chamaResult("Supino Reto - 4x12", "Supino 30° - 15 a8", "Supino Canadense - 4x12", "Crucifixo - 3x8 PESADO! ", "Cross Over - 4x12",null,null,null,null);
 				
 			}
