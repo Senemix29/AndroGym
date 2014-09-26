@@ -6,39 +6,3 @@ With an application on your smartphone, the personal trainer can update the exer
 what he wants, and your customers can see the exercises he needs to do that day and they can work out even if your 
 personal is not in the gym or when they will workout in another place.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mais: http://www.scrape.com.br/desenho-ascii.htm#ixzz3ESCqmet5
-  
- 
- 
- 
- 
