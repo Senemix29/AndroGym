@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;;
-
+// Melhorar o código e escrever usando banco de dados e listas séries usando listas e imageview
 public class AndroGym extends Activity {
 	Button btPeito, btCostas, btPerna, btOmbro, btBiTri, btAbdomen, btVolta, btSerie,btVolta2;
 	TextView tv01,tv02,tv03,tv04,tv05,tv06,tv07,tv08,tv09;
